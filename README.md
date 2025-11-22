@@ -3,8 +3,8 @@
 ![google trends](https://github.com/aazicap12-cpu/google-trends-analysis/blob/main/google%20trend.png)
 
 
-##Explore global search interest using Python, PyTrends, Plotly & Seaborn
-##Project Overview
+## Explore global search interest using Python, PyTrends, Plotly & Seaborn
+## Project Overview
 
 This project performs end-to-end analysis of Google Search interest using the PyTrends API.
 You can explore:
