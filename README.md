@@ -1,6 +1,6 @@
 ### Google Trends Analysis Project
 
-![google trends]()
+![google trends](https://github.com/aazicap12-cpu/google-trends-analysis/blob/main/google%20trend.png)
 
 
 ##Explore global search interest using Python, PyTrends, Plotly & Seaborn
