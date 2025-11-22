@@ -1,4 +1,4 @@
-##Google Trends Analysis Project
+## Google Trends Analysis Project
 
 ![google trends]()
 
@@ -19,7 +19,6 @@ You can explore:
 
 📈 Trend patterns & insights
 
-This data analysis project is perfect for showcasing Python, Data Analysis, and Visualization skills for your portfolio.
 
 ## Features
 ✅ 1. Keyword Trend Extraction
