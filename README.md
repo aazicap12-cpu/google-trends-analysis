@@ -1,4 +1,4 @@
-###Google Trends Analysis Project
+##Google Trends Analysis Project
 
 ![google trends]()
 
