@@ -1,4 +1,4 @@
-## Google Trends Analysis Project
+### G#oogle Trends Analysis Project
 
 ![google trends]()
 
@@ -97,6 +97,6 @@ Generate visuals
 
 Modify timeframe/keywords as needed
 
-##Created by: Muhammed Asif (Azi)
+## Created by: Muhammed Asif (Azi)
 
-Created by: Muhammed Asif (Azi)
+
