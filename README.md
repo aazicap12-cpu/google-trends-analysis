@@ -1,9 +1,9 @@
-#Google Trends Analysis Project
+###Google Trends Analysis Project
 
 ![google trends]()
 
 
-Explore global search interest using Python, PyTrends, Plotly & Seaborn
+##Explore global search interest using Python, PyTrends, Plotly & Seaborn
 ##Project Overview
 
 This project performs end-to-end analysis of Google Search interest using the PyTrends API.
